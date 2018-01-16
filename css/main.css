@@ -1,0 +1,37 @@
+table {
+    border: solid;
+    border-width: 1px;
+}
+
+td {
+    width: 30px;
+    height: 30px;
+    border: solid;
+    border-width: 1px;
+}
+
+td:hover {
+    background-color: yellow;
+}
+
+.ship {
+    background-color: greenyellow;
+}
+
+.killed {
+    background-color: red;
+}
+
+.missed {
+    background-color: lightblue;
+}
+
+table {
+    margin: auto;
+    top: 200px;
+}
+
+div {
+    text-align: center;
+    margin: 10px;
+}
